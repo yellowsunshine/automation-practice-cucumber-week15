@@ -1,0 +1,2159 @@
+2021-12-13 13:12:888 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 13:12:726 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 13:12:269 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:92 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:27 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:953 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:152 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:438 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:30 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:763 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 14:12:894 INFO  SignInPage :47 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (21f9c0e2f384d1925a8f0d1d7c92574d)] -> css selector: .page-heading]
+2021-12-13 14:12:222 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:734 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 14:12:881 INFO  SignInPage :47 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (6e49ad66e46bbed9b8749fa2b442b91c)] -> css selector: .page-heading]
+2021-12-13 14:12:111 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:469 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 14:12:503 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 14:12:659 INFO  SignInPage :47 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (86870467c962d4a95631ac094e3534a3)] -> css selector: .page-heading]
+2021-12-13 15:12:35 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:225 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:406 INFO  SignInPage :50 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (a91b7ee5791427525c97259ca1307a15)] -> css selector: .page-heading]
+2021-12-13 15:12:506 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:414 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:506 INFO  SignInPage :55 - enter user name : 
+2021-12-13 15:12:646 INFO  SignInPage :60 - enter user name : 123456
+2021-12-13 15:12:368 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:376 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:506 INFO  SignInPage :55 - enter user name : abcd@gmail.com
+2021-12-13 15:12:621 INFO  SignInPage :60 - enter user name : 
+2021-12-13 15:12:624 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:460 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:585 INFO  SignInPage :55 - enter user name : adfdfgfg
+2021-12-13 15:12:735 INFO  SignInPage :60 - enter user name : 123456
+2021-12-13 15:12:618 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:74 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:212 INFO  SignInPage :55 - enter user name : abcd@gmail.com
+2021-12-13 15:12:370 INFO  SignInPage :60 - enter user name : 123456
+2021-12-13 15:12:402 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:584 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:685 INFO  SignInPage :50 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (27c5eafcd88f998017c50f68b6049726)] -> css selector: .page-heading]
+2021-12-13 15:12:751 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:627 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:701 INFO  SignInPage :55 - enter user name : 
+2021-12-13 15:12:836 INFO  SignInPage :60 - enter user name : 123456
+2021-12-13 15:12:765 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:686 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:816 INFO  SignInPage :55 - enter user name : abcd@gmail.com
+2021-12-13 15:12:943 INFO  SignInPage :60 - enter user name : 
+2021-12-13 15:12:764 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:885 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:80 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:168 INFO  SignInPage :53 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (0b82ae5c25adf8680583a97b4c86083d)] -> css selector: .page-heading]
+2021-12-13 15:12:102 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:784 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:866 INFO  SignInPage :58 - enter user name : 
+2021-12-13 15:12:18 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:455 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:239 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:368 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:507 INFO  SignInPage :63 - enter user name : 
+2021-12-13 15:12:700 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:815 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:935 INFO  SignInPage :58 - enter user name : adfdfgfg
+2021-12-13 15:12:97 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:434 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:576 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:784 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:885 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:835 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:908 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:43 INFO  SignInPage :53 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (10d663c42419a7a23d0a9a74fff3a9b4)] -> css selector: .page-heading]
+2021-12-13 15:12:26 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:135 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:202 INFO  SignInPage :58 - enter user name : 
+2021-12-13 15:12:336 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:485 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:597 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:758 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:895 INFO  SignInPage :63 - enter user name : 
+2021-12-13 15:12:952 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:719 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:835 INFO  SignInPage :58 - enter user name : adfdfgfg
+2021-12-13 15:12:990 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:851 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:363 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:485 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:631 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:868 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:859 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:968 INFO  SignInPage :53 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (892ee9e6c24bbef6f3d5a68d21ae5b81)] -> css selector: .page-heading]
+2021-12-13 15:12:918 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:453 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:552 INFO  SignInPage :58 - enter user name : 
+2021-12-13 15:12:685 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:85 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:299 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:435 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:565 INFO  SignInPage :63 - enter user name : 
+2021-12-13 15:12:752 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:54 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:152 INFO  SignInPage :58 - enter user name : adfdfgfg
+2021-12-13 15:12:304 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:135 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:791 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:918 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:51 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:485 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:905 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:02 INFO  SignInPage :53 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (b432b0b779aad1734bcbe7593e849e6f)] -> css selector: .page-heading]
+2021-12-13 15:12:902 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:242 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:318 INFO  SignInPage :58 - enter user name : 
+2021-12-13 15:12:473 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:676 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:568 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:387 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:557 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:666 INFO  SignInPage :63 - enter user name : 
+2021-12-13 15:12:265 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:679 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:801 INFO  SignInPage :58 - enter user name : adfdfgfg
+2021-12-13 15:12:919 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:396 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:285 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:542 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:668 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:815 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:864 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:568 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:787 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:868 INFO  SignInPage :53 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (a83f24dc884db7d80beb8657aaab90cb)] -> css selector: .page-heading]
+2021-12-13 15:12:935 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:919 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:02 INFO  SignInPage :58 - enter user name : 
+2021-12-13 15:12:157 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:330 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:285 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:652 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:770 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:870 INFO  SignInPage :63 - enter user name : 
+2021-12-13 15:12:937 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:35 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:147 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:252 INFO  SignInPage :58 - enter user name : adfdfgfg
+2021-12-13 15:12:412 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:364 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:518 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:670 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:768 INFO  SignInPage :58 - enter user name : abcd@gmail.com
+2021-12-13 15:12:944 INFO  SignInPage :63 - enter user name : 123456
+2021-12-13 15:12:86 INFO  SignInPage :68 - click on the sign in button : Sign in
+2021-12-13 15:12:137 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:284 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:412 INFO  SignInPage :54 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (66a6909dbc5ec53345c66a387689ee95)] -> css selector: .page-heading]
+2021-12-13 15:12:288 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:891 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:984 INFO  SignInPage :59 - enter user name : 
+2021-12-13 15:12:125 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 15:12:220 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 15:12:100 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:669 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:785 INFO  SignInPage :59 - enter user name : abcd@gmail.com
+2021-12-13 15:12:909 INFO  SignInPage :64 - enter user name : 
+2021-12-13 15:12:82 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 15:12:235 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:102 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:612 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:726 INFO  SignInPage :54 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (e1470a00f98a7062f71a57cc48b62608)] -> css selector: .page-heading]
+2021-12-13 15:12:633 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:113 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:206 INFO  SignInPage :59 - enter user name : 
+2021-12-13 15:12:360 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 15:12:863 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 15:12:764 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:812 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:961 INFO  SignInPage :59 - enter user name : abcd@gmail.com
+2021-12-13 15:12:65 INFO  SignInPage :64 - enter user name : 
+2021-12-13 15:12:713 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 15:12:890 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:856 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:964 INFO  SignInPage :59 - enter user name : adfdfgfg
+2021-12-13 15:12:100 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 15:12:34 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 15:12:916 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 15:12:270 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 15:12:401 INFO  SignInPage :59 - enter user name : abcd@gmail.com
+2021-12-13 15:12:518 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 15:12:397 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:537 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:970 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:60 INFO  SignInPage :54 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (cdd5a44011d8b334f8b14916115eab95)] -> css selector: .page-heading]
+2021-12-13 16:12:940 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:115 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:240 INFO  SignInPage :59 - enter user name : 
+2021-12-13 16:12:379 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 16:12:225 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:120 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:04 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:109 INFO  SignInPage :59 - enter user name : abcd@gmail.com
+2021-12-13 16:12:190 INFO  SignInPage :64 - enter user name : 
+2021-12-13 16:12:82 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:258 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:132 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:294 INFO  SignInPage :59 - enter user name : adfdfgfg
+2021-12-13 16:12:454 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 16:12:515 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:137 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:866 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:973 INFO  SignInPage :59 - enter user name : abcd@gmail.com
+2021-12-13 16:12:71 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 16:12:88 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:277 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:762 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:853 INFO  SignInPage :54 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (69f1099df76d53fc3ae15502d7756d5e)] -> css selector: .page-heading]
+2021-12-13 16:12:735 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:932 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:13 INFO  SignInPage :59 - enter user name : 
+2021-12-13 16:12:156 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 16:12:598 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:228 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:329 INFO  SignInPage :59 - enter user name : abcd@gmail.com
+2021-12-13 16:12:416 INFO  SignInPage :64 - enter user name : 
+2021-12-13 16:12:865 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:866 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:436 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:530 INFO  SignInPage :59 - enter user name : adfdfgfg
+2021-12-13 16:12:648 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 16:12:652 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:465 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:812 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:937 INFO  SignInPage :59 - enter user name : abcd@gmail.com
+2021-12-13 16:12:52 INFO  SignInPage :64 - enter user name : 123456
+2021-12-13 16:12:502 INFO  SignInPage :69 - click on the sign in button : Sign in
+2021-12-13 16:12:80 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:320 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:400 INFO  SignInPage :51 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (65e22791c3db9e7aa8e3978feffd4df4)] -> css selector: .page-heading]
+2021-12-13 16:12:179 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:362 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:447 INFO  SignInPage :56 - enter user name : 
+2021-12-13 16:12:601 INFO  SignInPage :61 - enter user name : 123456
+2021-12-13 16:12:595 INFO  SignInPage :66 - click on the sign in button : Sign in
+2021-12-13 16:12:879 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:374 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:490 INFO  SignInPage :56 - enter user name : abcd@gmail.com
+2021-12-13 16:12:589 INFO  SignInPage :61 - enter user name : 
+2021-12-13 16:12:747 INFO  SignInPage :66 - click on the sign in button : Sign in
+2021-12-13 16:12:563 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:80 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:178 INFO  SignInPage :56 - enter user name : adfdfgfg
+2021-12-13 16:12:292 INFO  SignInPage :61 - enter user name : 123456
+2021-12-13 16:12:396 INFO  SignInPage :66 - click on the sign in button : Sign in
+2021-12-13 16:12:217 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:533 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:662 INFO  SignInPage :56 - enter user name : abcd@gmail.com
+2021-12-13 16:12:797 INFO  SignInPage :61 - enter user name : 123456
+2021-12-13 16:12:569 INFO  SignInPage :66 - click on the sign in button : Sign in
+2021-12-13 16:12:859 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:295 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:419 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (9f5a414b053e717883bea7633821a573)] -> css selector: .page-heading]
+2021-12-13 16:12:263 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:449 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:531 INFO  SignInPage :60 - enter user name : 
+2021-12-13 16:12:621 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:504 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:326 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:72 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:181 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 16:12:245 INFO  SignInPage :65 - enter user name : 
+2021-12-13 16:12:365 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:212 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:538 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:626 INFO  SignInPage :60 - enter user name : adfdfgfg
+2021-12-13 16:12:737 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:852 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:615 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:63 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:194 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 16:12:284 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:416 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:252 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:468 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:570 INFO  SignInPage :60 - enter user name : prime@gmail.com
+2021-12-13 16:12:678 INFO  SignInPage :65 - enter user name : Prime123
+2021-12-13 16:12:04 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:720 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:811 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (135e6b34e5720b5b8ed12c703b072761)] -> css selector: .page-heading]
+2021-12-13 16:12:639 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:269 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:347 INFO  SignInPage :60 - enter user name : 
+2021-12-13 16:12:465 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:387 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:194 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:96 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:199 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 16:12:298 INFO  SignInPage :65 - enter user name : 
+2021-12-13 16:12:977 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:841 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:137 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:227 INFO  SignInPage :60 - enter user name : adfdfgfg
+2021-12-13 16:12:337 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:446 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:269 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:813 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:913 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 16:12:19 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:417 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:258 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:373 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:481 INFO  SignInPage :60 - enter user name : prime@gmail.com
+2021-12-13 16:12:596 INFO  SignInPage :65 - enter user name : Prime123
+2021-12-13 16:12:762 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:841 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:922 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (43436d1c4b3fc92c488ef02f0b7e247c)] -> css selector: .page-heading]
+2021-12-13 16:12:725 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:147 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:218 INFO  SignInPage :60 - enter user name : 
+2021-12-13 16:12:328 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:954 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:825 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:264 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:361 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 16:12:438 INFO  SignInPage :65 - enter user name : 
+2021-12-13 16:12:671 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:466 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:994 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:83 INFO  SignInPage :60 - enter user name : adfdfgfg
+2021-12-13 16:12:185 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:85 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:873 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:987 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:92 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 16:12:324 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 16:12:361 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 16:12:234 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 16:12:736 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 16:12:840 INFO  SignInPage :60 - enter user name : prime@gmail.com
+2021-12-13 16:12:949 INFO  SignInPage :65 - enter user name : Prime123
+2021-12-13 19:12:223 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:473 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:580 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (23b4bd4955021dd9fe7dc742594ecea1)] -> css selector: .page-heading]
+2021-12-13 19:12:423 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:757 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:845 INFO  SignInPage :60 - enter user name : 
+2021-12-13 19:12:963 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:684 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:463 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:980 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:105 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:197 INFO  SignInPage :65 - enter user name : 
+2021-12-13 19:12:41 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:844 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:744 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:831 INFO  SignInPage :60 - enter user name : adfdfgfg
+2021-12-13 19:12:949 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:790 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:595 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:552 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:657 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:743 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:635 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:741 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:898 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:996 INFO  SignInPage :60 - enter user name : prime@gmail.com
+2021-12-13 19:12:102 INFO  SignInPage :65 - enter user name : Prime123
+2021-12-13 19:12:698 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:246 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:323 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (1c3767aad964a2eb67a7e57e7000a25f)] -> css selector: .page-heading]
+2021-12-13 19:12:211 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:06 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:96 INFO  SignInPage :60 - enter user name : 
+2021-12-13 19:12:213 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:689 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:66 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:271 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:367 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:476 INFO  SignInPage :65 - enter user name : 
+2021-12-13 19:12:106 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:213 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:670 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:760 INFO  SignInPage :60 - enter user name : adfdfgfg
+2021-12-13 19:12:870 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:652 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:757 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:958 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:59 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:168 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:439 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:703 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:665 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:776 INFO  SignInPage :60 - enter user name : prime@gmail.com
+2021-12-13 19:12:884 INFO  SignInPage :65 - enter user name : Prime123
+2021-12-13 19:12:117 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:798 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:627 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:737 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (099289a9fd52bb0696fdd7e294102814)] -> css selector: .page-heading]
+2021-12-13 19:12:528 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:258 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:330 INFO  SignInPage :60 - enter user name : 
+2021-12-13 19:12:422 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:686 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:982 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:971 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:75 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:178 INFO  SignInPage :65 - enter user name : 
+2021-12-13 19:12:809 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:909 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:279 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:374 INFO  SignInPage :60 - enter user name : adfdfgfg
+2021-12-13 19:12:505 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:98 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:224 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:608 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:714 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:826 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:817 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:919 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:411 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:551 INFO  SignInPage :60 - enter user name : prime@gmail.com
+2021-12-13 19:12:651 INFO  SignInPage :65 - enter user name : Prime123
+2021-12-13 19:12:206 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:802 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:334 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:459 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (5ccc0516eb86bf7d049710e299298de1)] -> css selector: .page-heading]
+2021-12-13 19:12:351 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:532 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:618 INFO  SignInPage :60 - enter user name : 
+2021-12-13 19:12:753 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:114 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:318 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:452 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:84 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:202 INFO  SignInPage :55 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (2a64ffdb2687142561169dc574e09755)] -> css selector: .page-heading]
+2021-12-13 19:12:135 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:366 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:435 INFO  SignInPage :60 - enter user name : 
+2021-12-13 19:12:570 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:04 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:935 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:240 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:352 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:468 INFO  SignInPage :65 - enter user name : 
+2021-12-13 19:12:496 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:435 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:174 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:268 INFO  SignInPage :60 - enter user name : adfdfgfg
+2021-12-13 19:12:401 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:554 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:435 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:212 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:363 INFO  SignInPage :60 - enter user name : abcd@gmail.com
+2021-12-13 19:12:480 INFO  SignInPage :65 - enter user name : 123456
+2021-12-13 19:12:890 INFO  SignInPage :70 - click on the sign in button : Sign in
+2021-12-13 19:12:801 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:705 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 19:12:818 INFO  SignInPage :60 - enter user name : prime@gmail.com
+2021-12-13 19:12:935 INFO  SignInPage :65 - enter user name : Prime123
+2021-12-13 20:12:01 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:739 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:835 INFO  SignInPage :58 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (ed1a80ffbb1154d3970cd3c334e0028e)] -> css selector: .page-heading]
+2021-12-13 20:12:952 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:503 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:600 INFO  SignInPage :63 - enter user name : 
+2021-12-13 20:12:761 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:784 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:802 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:607 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:729 INFO  SignInPage :63 - enter user name : abcd@gmail.com
+2021-12-13 20:12:886 INFO  SignInPage :68 - enter user name : 
+2021-12-13 20:12:777 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:818 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:728 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:818 INFO  SignInPage :63 - enter user name : adfdfgfg
+2021-12-13 20:12:952 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:282 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:335 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:170 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:314 INFO  SignInPage :63 - enter user name : abcd@gmail.com
+2021-12-13 20:12:452 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:265 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:251 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:846 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:968 INFO  SignInPage :63 - enter user name : prime@gmail.com
+2021-12-13 20:12:85 INFO  SignInPage :68 - enter user name : Prime123
+2021-12-13 20:12:635 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:174 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:268 INFO  SignInPage :58 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (1cb67b9ecd4cdcbd0ec1acb9d9a16842)] -> css selector: .page-heading]
+2021-12-13 20:12:331 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:158 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:267 INFO  SignInPage :63 - enter user name : 
+2021-12-13 20:12:446 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:930 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:985 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:386 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:535 INFO  SignInPage :63 - enter user name : abcd@gmail.com
+2021-12-13 20:12:678 INFO  SignInPage :68 - enter user name : 
+2021-12-13 20:12:874 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:918 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:664 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:768 INFO  SignInPage :63 - enter user name : adfdfgfg
+2021-12-13 20:12:902 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:745 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:785 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:110 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:235 INFO  SignInPage :63 - enter user name : abcd@gmail.com
+2021-12-13 20:12:393 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:212 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:252 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:986 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:164 INFO  SignInPage :63 - enter user name : prime@gmail.com
+2021-12-13 20:12:302 INFO  SignInPage :68 - enter user name : Prime123
+2021-12-13 20:12:252 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:29 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:119 INFO  SignInPage :58 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (e17ef1aa52cf7c6d8c4a2ad096fd78a0)] -> css selector: .page-heading]
+2021-12-13 20:12:184 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:870 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:968 INFO  SignInPage :63 - enter user name : 
+2021-12-13 20:12:120 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:133 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:465 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:678 INFO  SignInPage :63 - enter user name : abcd@gmail.com
+2021-12-13 20:12:790 INFO  SignInPage :68 - enter user name : 
+2021-12-13 20:12:773 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:824 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:353 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:468 INFO  SignInPage :63 - enter user name : adfdfgfg
+2021-12-13 20:12:640 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:562 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:601 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:819 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:968 INFO  SignInPage :63 - enter user name : abcd@gmail.com
+2021-12-13 20:12:117 INFO  SignInPage :68 - enter user name : 123456
+2021-12-13 20:12:593 INFO  SignInPage :73 - click on the sign in button : Sign in
+2021-12-13 20:12:619 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:552 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:705 INFO  SignInPage :63 - enter user name : prime@gmail.com
+2021-12-13 20:12:835 INFO  SignInPage :68 - enter user name : Prime123
+2021-12-13 20:12:52 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:103 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:246 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (c924bd1ef35c4fd81e64801a41ae10c3)] -> css selector: .page-heading]
+2021-12-13 20:12:291 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:553 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:655 INFO  SignInPage :65 - enter user name : 
+2021-12-13 20:12:802 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:754 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:802 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:404 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:553 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:668 INFO  SignInPage :70 - enter user name : 
+2021-12-13 20:12:197 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:268 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:418 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:542 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 20:12:668 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:43 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:85 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:456 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:644 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:783 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:984 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:18 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:933 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:85 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 20:12:236 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 20:12:51 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:996 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:126 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (450e892fe70023ff5367b63612de5043)] -> css selector: .page-heading]
+2021-12-13 20:12:166 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:537 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:635 INFO  SignInPage :65 - enter user name : 
+2021-12-13 20:12:797 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:860 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:902 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:993 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:118 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:235 INFO  SignInPage :70 - enter user name : 
+2021-12-13 20:12:415 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:468 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:442 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:552 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 20:12:685 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:596 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:635 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:987 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:118 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:277 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:147 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:920 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:83 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 20:12:236 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 20:12:235 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:437 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:552 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (997913a145207b793bad135c26938786)] -> css selector: .page-heading]
+2021-12-13 20:12:611 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:529 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:628 INFO  SignInPage :65 - enter user name : 
+2021-12-13 20:12:783 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:665 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:718 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:984 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:157 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:275 INFO  SignInPage :70 - enter user name : 
+2021-12-13 20:12:263 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:302 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:52 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:185 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 20:12:340 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:208 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:235 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:785 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:961 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:92 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:255 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:285 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:868 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:02 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 20:12:161 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 20:12:740 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:527 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:834 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (859914baceb19fe3be0963c2effb1b80)] -> css selector: .page-heading]
+2021-12-13 20:12:11 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:264 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:805 INFO  SignInPage :65 - enter user name : 
+2021-12-13 20:12:215 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:663 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:818 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:557 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:942 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:167 INFO  SignInPage :70 - enter user name : 
+2021-12-13 20:12:640 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:829 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:726 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:229 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 20:12:857 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:17 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:107 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:678 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:802 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 20:12:948 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 20:12:950 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 20:12:12 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:464 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:579 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 20:12:649 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 20:12:338 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:591 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 20:12:898 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 20:12:296 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 22:12:801 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:166 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:301 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (0fb6938451a4deec0ba9518f068579ac)] -> css selector: .page-heading]
+2021-12-13 22:12:384 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:502 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:730 INFO  SignInPage :65 - enter user name : 
+2021-12-13 22:12:939 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:213 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:252 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:520 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:727 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 22:12:876 INFO  SignInPage :70 - enter user name : 
+2021-12-13 22:12:762 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:818 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:19 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:192 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 22:12:362 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:430 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:485 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:599 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:777 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 22:12:935 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:211 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:285 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:167 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:451 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 22:12:646 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 22:12:268 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:456 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:620 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 22:12:759 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 22:12:112 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:519 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:639 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (0e6cf52babf105d0c4f8ac4674aaaea6)] -> css selector: .page-heading]
+2021-12-13 22:12:710 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:499 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:706 INFO  SignInPage :65 - enter user name : 
+2021-12-13 22:12:867 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:690 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:735 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:651 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:962 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 22:12:117 INFO  SignInPage :70 - enter user name : 
+2021-12-13 22:12:32 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:118 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:470 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:660 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 22:12:899 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:58 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:102 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:91 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:316 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 22:12:493 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:479 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:552 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:587 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:793 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 22:12:935 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 22:12:118 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:418 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:599 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 22:12:745 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 22:12:667 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:785 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:885 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (2a36b330b429c403adcfdebc2008944b)] -> css selector: .page-heading]
+2021-12-13 22:12:944 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:416 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:555 INFO  SignInPage :65 - enter user name : 
+2021-12-13 22:12:777 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:618 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:685 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:654 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:817 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 22:12:954 INFO  SignInPage :70 - enter user name : 
+2021-12-13 22:12:818 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:901 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:731 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:852 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 22:12:33 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:894 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:935 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:459 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:599 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 22:12:720 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 22:12:905 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 22:12:951 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:237 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:426 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 22:12:569 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 22:12:368 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:936 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:181 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 22:12:318 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 22:12:635 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 22:12:421 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 22:12:551 INFO  SignInPage :60 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (b344e41ae209d7f317ade396027fe18f)] -> css selector: .page-heading]
+2021-12-13 22:12:624 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:119 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:267 INFO  SignInPage :65 - enter user name : 
+2021-12-13 23:12:450 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 23:12:393 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 23:12:435 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:820 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:981 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 23:12:116 INFO  SignInPage :70 - enter user name : 
+2021-12-13 23:12:41 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 23:12:118 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:735 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:969 INFO  SignInPage :65 - enter user name : adfdfgfg
+2021-12-13 23:12:140 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 23:12:113 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 23:12:172 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:751 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:10 INFO  SignInPage :65 - enter user name : abcd@gmail.com
+2021-12-13 23:12:189 INFO  SignInPage :70 - enter user name : 123456
+2021-12-13 23:12:03 INFO  SignInPage :75 - click on the sign in button : Sign in
+2021-12-13 23:12:52 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:786 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:981 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 23:12:209 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 23:12:752 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:252 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:446 INFO  SignInPage :65 - enter user name : prime@gmail.com
+2021-12-13 23:12:637 INFO  SignInPage :70 - enter user name : Prime123
+2021-12-13 23:12:368 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:670 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:785 INFO  SignInPage :64 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (677a1d7eea931c05b390d76cc4019ed8)] -> css selector: .page-heading]
+2021-12-13 23:12:835 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:601 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:718 INFO  SignInPage :69 - enter user name : 
+2021-12-13 23:12:916 INFO  SignInPage :74 - enter user name : 123456
+2021-12-13 23:12:758 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-13 23:12:802 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:512 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:697 INFO  SignInPage :69 - enter user name : abcd@gmail.com
+2021-12-13 23:12:820 INFO  SignInPage :74 - enter user name : 
+2021-12-13 23:12:689 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-13 23:12:751 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:516 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:652 INFO  SignInPage :69 - enter user name : adfdfgfg
+2021-12-13 23:12:797 INFO  SignInPage :74 - enter user name : 123456
+2021-12-13 23:12:686 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-13 23:12:718 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:435 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:611 INFO  SignInPage :69 - enter user name : abcd@gmail.com
+2021-12-13 23:12:757 INFO  SignInPage :74 - enter user name : 123456
+2021-12-13 23:12:648 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-13 23:12:685 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:933 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:97 INFO  SignInPage :69 - enter user name : prime@gmail.com
+2021-12-13 23:12:257 INFO  SignInPage :74 - enter user name : Prime123
+2021-12-13 23:12:218 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:770 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:953 INFO  SignInPage :69 - enter user name : prime@gmail.com
+2021-12-13 23:12:134 INFO  SignInPage :74 - enter user name : Prime123
+2021-12-13 23:12:652 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:236 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:335 INFO  SignInPage :59 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (add8f9dda6cb0cdbcde8e87c84f5840c)] -> css selector: .page-heading]
+2021-12-13 23:12:406 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:803 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:16 INFO  SignInPage :64 - enter user name : 
+2021-12-13 23:12:183 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:153 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:170 INFO  SignInPage :79 - verify the error message : An email address required.
+2021-12-13 23:12:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:937 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:104 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:234 INFO  SignInPage :69 - enter user name : 
+2021-12-13 23:12:570 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:586 INFO  SignInPage :79 - verify the error message : Password is required.
+2021-12-13 23:12:618 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:752 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:927 INFO  SignInPage :64 - enter user name : adfdfgfg
+2021-12-13 23:12:49 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:880 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:903 INFO  SignInPage :79 - verify the error message : Invalid email address.
+2021-12-13 23:12:919 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:998 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:151 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:303 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:129 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:153 INFO  SignInPage :79 - verify the error message : Authentication failed.
+2021-12-13 23:12:168 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:617 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:809 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:951 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:468 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:650 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:814 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:985 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:35 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:970 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:85 INFO  SignInPage :59 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (e04b7c624704722617b8a4fae2586f4e)] -> css selector: .page-heading]
+2021-12-13 23:12:141 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:870 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:02 INFO  SignInPage :64 - enter user name : 
+2021-12-13 23:12:159 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:105 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:119 INFO  SignInPage :79 - verify the error message : An email address required.
+2021-12-13 23:12:152 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:952 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:130 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:261 INFO  SignInPage :69 - enter user name : 
+2021-12-13 23:12:115 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:135 INFO  SignInPage :79 - verify the error message : Password is required.
+2021-12-13 23:12:168 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:20 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:215 INFO  SignInPage :64 - enter user name : adfdfgfg
+2021-12-13 23:12:368 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:582 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:602 INFO  SignInPage :79 - verify the error message : Invalid email address.
+2021-12-13 23:12:619 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:952 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:202 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:480 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:668 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:727 INFO  SignInPage :79 - verify the error message : Authentication failed.
+2021-12-13 23:12:751 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:685 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:890 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:35 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:885 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:801 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:963 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:117 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:457 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:652 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:769 INFO  SignInPage :59 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (3a94d18e17f0c2c6c37f63065e197d08)] -> css selector: .page-heading]
+2021-12-13 23:12:852 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:19 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:151 INFO  SignInPage :64 - enter user name : 
+2021-12-13 23:12:332 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:275 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:303 INFO  SignInPage :79 - verify the error message : An email address required.
+2021-12-13 23:12:334 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:287 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:477 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:615 INFO  SignInPage :69 - enter user name : 
+2021-12-13 23:12:743 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:768 INFO  SignInPage :79 - verify the error message : Password is required.
+2021-12-13 23:12:785 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:591 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:797 INFO  SignInPage :64 - enter user name : adfdfgfg
+2021-12-13 23:12:917 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:65 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:85 INFO  SignInPage :79 - verify the error message : Invalid email address.
+2021-12-13 23:12:102 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:186 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:351 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:509 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:378 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:403 INFO  SignInPage :79 - verify the error message : Authentication failed.
+2021-12-13 23:12:418 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:551 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:731 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:897 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:835 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:604 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:782 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:951 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:818 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:492 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:635 INFO  SignInPage :59 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (88da4bc29da5e1bc983457b8f76e374b)] -> css selector: .page-heading]
+2021-12-13 23:12:686 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:202 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:379 INFO  SignInPage :64 - enter user name : 
+2021-12-13 23:12:547 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:493 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:518 INFO  SignInPage :79 - verify the error message : An email address required.
+2021-12-13 23:12:550 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:470 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:618 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:771 INFO  SignInPage :69 - enter user name : 
+2021-12-13 23:12:699 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:718 INFO  SignInPage :79 - verify the error message : Password is required.
+2021-12-13 23:12:752 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:603 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:718 INFO  SignInPage :64 - enter user name : adfdfgfg
+2021-12-13 23:12:852 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:787 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:818 INFO  SignInPage :79 - verify the error message : Invalid email address.
+2021-12-13 23:12:835 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:135 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:314 INFO  SignInPage :64 - enter user name : abcd@gmail.com
+2021-12-13 23:12:485 INFO  SignInPage :69 - enter user name : 123456
+2021-12-13 23:12:627 INFO  SignInPage :74 - click on the sign in button : Sign in
+2021-12-13 23:12:651 INFO  SignInPage :79 - verify the error message : Authentication failed.
+2021-12-13 23:12:668 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:652 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:826 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:15 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:768 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:01 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:118 INFO  SignInPage :64 - enter user name : prime@gmail.com
+2021-12-13 23:12:316 INFO  SignInPage :69 - enter user name : Prime123
+2021-12-13 23:12:752 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:738 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:896 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (f31174842619b0ba6ec75b4120df74d1)] -> css selector: .page-heading]
+2021-12-13 23:12:933 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:686 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:802 INFO  SignInPage :67 - enter user name : 
+2021-12-13 23:12:985 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:819 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:835 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-13 23:12:868 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:720 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:889 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:27 INFO  SignInPage :72 - enter user name : 
+2021-12-13 23:12:902 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:918 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-13 23:12:952 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:570 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:705 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-13 23:12:847 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:686 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:701 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-13 23:12:735 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:482 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:666 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:818 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:29 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:51 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-13 23:12:185 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:703 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:835 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:980 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-13 23:12:718 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:989 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:135 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:285 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-13 23:12:368 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:304 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:418 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (7a642407ae86867c5b4442a9850617cf)] -> css selector: .page-heading]
+2021-12-13 23:12:480 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:391 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:601 INFO  SignInPage :67 - enter user name : 
+2021-12-13 23:12:751 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:606 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:620 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-13 23:12:651 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:203 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:363 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:520 INFO  SignInPage :72 - enter user name : 
+2021-12-13 23:12:402 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:435 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-13 23:12:452 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:970 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:101 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-13 23:12:299 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:679 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:719 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-13 23:12:756 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:420 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:617 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:816 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:159 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:185 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-13 23:12:202 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:720 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:913 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:112 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-13 23:12:753 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:585 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:776 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:953 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-13 23:12:835 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:752 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:898 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (1b7ea149c6857eff5017f884048c59ae)] -> css selector: .page-heading]
+2021-12-13 23:12:953 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:870 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:02 INFO  SignInPage :67 - enter user name : 
+2021-12-13 23:12:207 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:416 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:435 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-13 23:12:452 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:269 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:428 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:590 INFO  SignInPage :72 - enter user name : 
+2021-12-13 23:12:503 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:535 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-13 23:12:568 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:01 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:152 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-13 23:12:428 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:345 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:368 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-13 23:12:385 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:503 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:695 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:982 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:00 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:35 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-13 23:12:52 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:502 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:683 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:948 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-13 23:12:602 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:87 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:260 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:418 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-13 23:12:752 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:378 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:518 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (c673dd1233756d5e0bda3329989a5420)] -> css selector: .page-heading]
+2021-12-13 23:12:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:98 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:262 INFO  SignInPage :67 - enter user name : 
+2021-12-13 23:12:385 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:249 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:268 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-13 23:12:302 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:576 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:754 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:871 INFO  SignInPage :72 - enter user name : 
+2021-12-13 23:12:988 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:02 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-13 23:12:34 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:375 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:485 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-13 23:12:602 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:427 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:435 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-13 23:12:468 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:122 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:291 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-13 23:12:435 INFO  SignInPage :72 - enter user name : 123456
+2021-12-13 23:12:249 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-13 23:12:268 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-13 23:12:385 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:967 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:102 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:279 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-13 23:12:866 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 23:12:754 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-13 23:12:962 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-13 23:12:118 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 09:12:593 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:460 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:727 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (b402d68eb866c1ec6ab1d638de682ab6)] -> css selector: .page-heading]
+2021-12-14 09:12:827 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:727 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:38 INFO  SignInPage :67 - enter user name : 
+2021-12-14 09:12:278 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:445 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:494 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-14 09:12:577 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:577 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:813 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 09:12:960 INFO  SignInPage :72 - enter user name : 
+2021-12-14 09:12:844 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:894 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-14 09:12:944 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:174 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:405 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 09:12:576 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:737 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:785 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-14 09:12:820 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:182 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:487 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 09:12:711 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:720 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:774 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-14 09:12:821 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:910 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:134 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 09:12:314 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 09:12:143 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:260 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:484 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 09:12:703 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 09:12:744 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:326 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:527 INFO  SignInPage :61 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (60cd38850df953c5f0f432ed9e2ca772)] -> css selector: .page-heading]
+2021-12-14 09:12:560 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:743 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:893 INFO  SignInPage :66 - enter user name : 
+2021-12-14 09:12:84 INFO  SignInPage :71 - enter user name : 123456
+2021-12-14 09:12:944 INFO  SignInPage :76 - click on the sign in button : Sign in
+2021-12-14 09:12:962 INFO  SignInPage :81 - verify the error message : An email address required.
+2021-12-14 09:12:977 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:911 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:60 INFO  SignInPage :66 - enter user name : abcd@gmail.com
+2021-12-14 09:12:216 INFO  SignInPage :71 - enter user name : 
+2021-12-14 09:12:936 INFO  SignInPage :76 - click on the sign in button : Sign in
+2021-12-14 09:12:960 INFO  SignInPage :81 - verify the error message : Password is required.
+2021-12-14 09:12:977 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:495 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:650 INFO  SignInPage :66 - enter user name : adfdfgfg
+2021-12-14 09:12:811 INFO  SignInPage :71 - enter user name : 123456
+2021-12-14 09:12:683 INFO  SignInPage :76 - click on the sign in button : Sign in
+2021-12-14 09:12:695 INFO  SignInPage :81 - verify the error message : Invalid email address.
+2021-12-14 09:12:727 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:527 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:719 INFO  SignInPage :66 - enter user name : abcd@gmail.com
+2021-12-14 09:12:860 INFO  SignInPage :71 - enter user name : 123456
+2021-12-14 09:12:761 INFO  SignInPage :76 - click on the sign in button : Sign in
+2021-12-14 09:12:793 INFO  SignInPage :81 - verify the error message : Authentication failed.
+2021-12-14 09:12:810 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:295 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:491 INFO  SignInPage :66 - enter user name : prime@gmail.com
+2021-12-14 09:12:643 INFO  SignInPage :71 - enter user name : Prime123
+2021-12-14 09:12:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:95 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:272 INFO  SignInPage :66 - enter user name : prime@gmail.com
+2021-12-14 09:12:444 INFO  SignInPage :71 - enter user name : Prime123
+2021-12-14 09:12:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:477 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:654 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (fa1fc7f4c1efd30ed628ff8a869c3178)] -> css selector: .page-heading]
+2021-12-14 09:12:709 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:12 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:143 INFO  SignInPage :67 - enter user name : 
+2021-12-14 09:12:392 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:304 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:260 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:538 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 09:12:712 INFO  SignInPage :72 - enter user name : 
+2021-12-14 09:12:249 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:181 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:394 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 09:12:653 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:77 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:355 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:544 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (9765fe704530af1814894791dc4eae42)] -> css selector: .page-heading]
+2021-12-14 09:12:610 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:427 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:589 INFO  SignInPage :67 - enter user name : 
+2021-12-14 09:12:835 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:527 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:560 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-14 09:12:594 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:776 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:948 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 09:12:75 INFO  SignInPage :72 - enter user name : 
+2021-12-14 09:12:60 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:93 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-14 09:12:110 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:360 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:560 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 09:12:778 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:146 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:162 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-14 09:12:194 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:945 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:121 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 09:12:237 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 09:12:43 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 09:12:77 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-14 09:12:93 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:833 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:116 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 09:12:332 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 09:12:744 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 09:12:501 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 09:12:680 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 09:12:924 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 10:12:227 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:224 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:327 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (597abd3183145b08f7b74ed78cc9a4cd)] -> css selector: .page-heading]
+2021-12-14 10:12:394 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:778 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:894 INFO  SignInPage :67 - enter user name : 
+2021-12-14 10:12:56 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:907 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:928 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-14 10:12:944 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:282 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:427 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:577 INFO  SignInPage :72 - enter user name : 
+2021-12-14 10:12:837 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:861 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-14 10:12:888 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:995 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:127 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 10:12:310 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:124 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:144 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-14 10:12:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:294 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:410 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:559 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:414 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:446 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-14 10:12:560 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:456 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:643 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 10:12:810 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 10:12:243 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:594 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:955 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:77 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (fb514a65429ac1583ed3da7e62841576)] -> css selector: .page-heading]
+2021-12-14 10:12:135 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:932 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:27 INFO  SignInPage :67 - enter user name : 
+2021-12-14 10:12:177 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:420 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:445 INFO  SignInPage :83 - verify the error message : An email address required.
+2021-12-14 10:12:460 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:471 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:593 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:737 INFO  SignInPage :72 - enter user name : 
+2021-12-14 10:12:911 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:944 INFO  SignInPage :83 - verify the error message : Password is required.
+2021-12-14 10:12:976 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:817 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:931 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 10:12:73 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:661 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:694 INFO  SignInPage :83 - verify the error message : Invalid email address.
+2021-12-14 10:12:710 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:844 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:960 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:105 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:150 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:177 INFO  SignInPage :83 - verify the error message : Authentication failed.
+2021-12-14 10:12:327 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:335 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:504 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 10:12:644 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 10:12:827 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:508 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:679 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 10:12:822 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 10:12:777 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:729 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:827 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (ef3e626306d839ea6a077c72cba05cd9)] -> css selector: .page-heading]
+2021-12-14 10:12:914 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:395 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:510 INFO  SignInPage :67 - enter user name : 
+2021-12-14 10:12:656 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:22 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:45 INFO  SignInPage :83 - verify the error message : An email address required.
+2021-12-14 10:12:60 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:971 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:94 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:223 INFO  SignInPage :72 - enter user name : 
+2021-12-14 10:12:518 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:543 INFO  SignInPage :83 - verify the error message : Password is required.
+2021-12-14 10:12:577 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:704 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:810 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 10:12:944 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:206 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:228 INFO  SignInPage :83 - verify the error message : Invalid email address.
+2021-12-14 10:12:243 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:728 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:843 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:00 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:864 INFO  SignInPage :78 - click on the sign in button : Sign in
+2021-12-14 10:12:910 INFO  SignInPage :83 - verify the error message : Authentication failed.
+2021-12-14 10:12:944 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:595 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:727 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 10:12:928 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 10:12:294 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:310 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:482 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 10:12:623 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 10:12:327 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:212 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:344 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (c1b2d946a2362e023cfcd4bc13630a3f)] -> css selector: .page-heading]
+2021-12-14 10:12:417 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:312 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:427 INFO  SignInPage :67 - enter user name : 
+2021-12-14 10:12:687 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:551 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:589 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-14 10:12:610 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:676 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:836 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:960 INFO  SignInPage :72 - enter user name : 
+2021-12-14 10:12:874 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:910 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-14 10:12:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:296 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:427 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 10:12:611 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:708 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:727 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-14 10:12:760 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:629 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:809 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 10:12:944 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 10:12:111 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 10:12:143 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-14 10:12:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 10:12:962 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 10:12:110 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 10:12:277 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 10:12:360 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:777 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:103 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:330 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (c30b4bcf029f6f2c43ae71a1fd4d836c)] -> css selector: .page-heading]
+2021-12-14 11:12:378 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:677 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:760 INFO  SignInPage :67 - enter user name : 
+2021-12-14 11:12:977 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 11:12:873 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 11:12:893 INFO  SignInPage :82 - verify the error message : An email address required.
+2021-12-14 11:12:916 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:479 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:654 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:815 INFO  SignInPage :72 - enter user name : 
+2021-12-14 11:12:272 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 11:12:304 INFO  SignInPage :82 - verify the error message : Password is required.
+2021-12-14 11:12:337 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:529 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:627 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 11:12:843 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 11:12:910 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 11:12:928 INFO  SignInPage :82 - verify the error message : Invalid email address.
+2021-12-14 11:12:944 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:162 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:363 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:508 INFO  SignInPage :72 - enter user name : 123456
+2021-12-14 11:12:859 INFO  SignInPage :77 - click on the sign in button : Sign in
+2021-12-14 11:12:894 INFO  SignInPage :82 - verify the error message : Authentication failed.
+2021-12-14 11:12:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:328 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:525 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:861 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 11:12:994 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:562 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:767 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:895 INFO  SignInPage :72 - enter user name : Prime123
+2021-12-14 11:12:643 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:414 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:527 INFO  SignInPage :63 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (93a29967cf1b3cdcf214f3821cb403ba)] -> css selector: .page-heading]
+2021-12-14 11:12:582 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:977 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:43 INFO  SignInPage :68 - enter user name : 
+2021-12-14 11:12:193 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:944 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:977 INFO  SignInPage :84 - verify the error message : An email address required.
+2021-12-14 11:12:994 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:709 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:839 INFO  SignInPage :68 - enter user name : abcd@gmail.com
+2021-12-14 11:12:976 INFO  SignInPage :74 - enter user name : 
+2021-12-14 11:12:241 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:261 INFO  SignInPage :84 - verify the error message : Password is required.
+2021-12-14 11:12:294 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:481 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:560 INFO  SignInPage :68 - enter user name : adfdfgfg
+2021-12-14 11:12:644 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:727 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:760 INFO  SignInPage :84 - verify the error message : Invalid email address.
+2021-12-14 11:12:777 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:226 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:343 INFO  SignInPage :68 - enter user name : abcd@gmail.com
+2021-12-14 11:12:493 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:461 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:494 INFO  SignInPage :84 - verify the error message : Authentication failed.
+2021-12-14 11:12:610 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:216 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:343 INFO  SignInPage :68 - enter user name : prime@gmail.com
+2021-12-14 11:12:509 INFO  SignInPage :74 - enter user name : Prime123
+2021-12-14 11:12:654 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:531 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:705 INFO  SignInPage :63 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (f2543536bac2fafa03d775af2d4a4ceb)] -> css selector: .page-heading]
+2021-12-14 11:12:743 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:461 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:577 INFO  SignInPage :68 - enter user name : 
+2021-12-14 11:12:776 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:454 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:493 INFO  SignInPage :84 - verify the error message : An email address required.
+2021-12-14 11:12:510 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:627 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:813 INFO  SignInPage :68 - enter user name : abcd@gmail.com
+2021-12-14 11:12:976 INFO  SignInPage :74 - enter user name : 
+2021-12-14 11:12:377 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:410 INFO  SignInPage :84 - verify the error message : Password is required.
+2021-12-14 11:12:443 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:378 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:510 INFO  SignInPage :68 - enter user name : adfdfgfg
+2021-12-14 11:12:692 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:444 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:477 INFO  SignInPage :84 - verify the error message : Invalid email address.
+2021-12-14 11:12:657 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:893 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:159 INFO  SignInPage :68 - enter user name : abcd@gmail.com
+2021-12-14 11:12:393 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:376 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:410 INFO  SignInPage :84 - verify the error message : Authentication failed.
+2021-12-14 11:12:444 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:260 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:439 INFO  SignInPage :68 - enter user name : prime@gmail.com
+2021-12-14 11:12:609 INFO  SignInPage :74 - enter user name : Prime123
+2021-12-14 11:12:944 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:613 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:765 INFO  SignInPage :63 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (2db15fa36cf6229089b439b6b8b74a73)] -> css selector: .page-heading]
+2021-12-14 11:12:810 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:212 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:310 INFO  SignInPage :68 - enter user name : 
+2021-12-14 11:12:509 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:843 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 11:12:893 INFO  SignInPage :85 - verify the error message : An email address required.
+2021-12-14 11:12:930 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:161 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:352 INFO  SignInPage :68 - enter user name : abcd@gmail.com
+2021-12-14 11:12:526 INFO  SignInPage :74 - enter user name : 
+2021-12-14 11:12:393 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 11:12:427 INFO  SignInPage :85 - verify the error message : Password is required.
+2021-12-14 11:12:460 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:528 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:660 INFO  SignInPage :68 - enter user name : adfdfgfg
+2021-12-14 11:12:859 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:394 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 11:12:429 INFO  SignInPage :85 - verify the error message : Invalid email address.
+2021-12-14 11:12:460 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:644 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:836 INFO  SignInPage :68 - enter user name : abcd@gmail.com
+2021-12-14 11:12:26 INFO  SignInPage :74 - enter user name : 123456
+2021-12-14 11:12:429 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 11:12:477 INFO  SignInPage :85 - verify the error message : Authentication failed.
+2021-12-14 11:12:493 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:294 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:476 INFO  SignInPage :68 - enter user name : prime@gmail.com
+2021-12-14 11:12:643 INFO  SignInPage :74 - enter user name : Prime123
+2021-12-14 11:12:660 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:277 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:459 INFO  SignInPage :68 - enter user name : prime@gmail.com
+2021-12-14 11:12:644 INFO  SignInPage :74 - enter user name : Prime123
+2021-12-14 11:12:777 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:110 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:321 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (a77906e98d78329d952c536902cda422)] -> css selector: .page-heading]
+2021-12-14 11:12:368 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:927 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:43 INFO  SignInPage :67 - enter user name : 
+2021-12-14 11:12:259 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:60 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:94 INFO  SignInPage :84 - verify the error message : An email address required.
+2021-12-14 11:12:143 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:627 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:819 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:976 INFO  SignInPage :73 - enter user name : 
+2021-12-14 11:12:482 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:526 INFO  SignInPage :84 - verify the error message : Password is required.
+2021-12-14 11:12:543 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:462 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:671 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 11:12:809 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:71 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:94 INFO  SignInPage :84 - verify the error message : Invalid email address.
+2021-12-14 11:12:110 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:345 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:557 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:788 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:827 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:860 INFO  SignInPage :84 - verify the error message : Authentication failed.
+2021-12-14 11:12:12 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:315 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:472 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:659 INFO  SignInPage :73 - enter user name : Prime123
+2021-12-14 11:12:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:607 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:744 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:893 INFO  SignInPage :73 - enter user name : Prime123
+2021-12-14 11:12:784 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:129 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:249 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (e1461e0a0362796932e5a6d719f69563)] -> css selector: .page-heading]
+2021-12-14 11:12:295 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:377 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:538 INFO  SignInPage :67 - enter user name : 
+2021-12-14 11:12:859 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:642 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:660 INFO  SignInPage :84 - verify the error message : An email address required.
+2021-12-14 11:12:694 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:145 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:277 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:409 INFO  SignInPage :73 - enter user name : 
+2021-12-14 11:12:716 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:744 INFO  SignInPage :84 - verify the error message : Password is required.
+2021-12-14 11:12:760 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:624 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:743 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 11:12:893 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:756 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:777 INFO  SignInPage :84 - verify the error message : Invalid email address.
+2021-12-14 11:12:794 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:544 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:683 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:843 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:717 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:743 INFO  SignInPage :84 - verify the error message : Authentication failed.
+2021-12-14 11:12:760 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:894 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:27 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:209 INFO  SignInPage :73 - enter user name : Prime123
+2021-12-14 11:12:227 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:527 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:709 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:42 INFO  SignInPage :73 - enter user name : Prime123
+2021-12-14 11:12:93 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:112 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:227 INFO  SignInPage :62 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (0c9e9ae61387406144ba67957218a441)] -> css selector: .page-heading]
+2021-12-14 11:12:281 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:627 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:744 INFO  SignInPage :67 - enter user name : 
+2021-12-14 11:12:942 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:392 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:427 INFO  SignInPage :84 - verify the error message : An email address required.
+2021-12-14 11:12:443 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:60 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:241 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:343 INFO  SignInPage :73 - enter user name : 
+2021-12-14 11:12:675 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:710 INFO  SignInPage :84 - verify the error message : Password is required.
+2021-12-14 11:12:727 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:344 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:443 INFO  SignInPage :67 - enter user name : adfdfgfg
+2021-12-14 11:12:593 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:968 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:994 INFO  SignInPage :84 - verify the error message : Invalid email address.
+2021-12-14 11:12:10 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:210 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:425 INFO  SignInPage :67 - enter user name : abcd@gmail.com
+2021-12-14 11:12:593 INFO  SignInPage :73 - enter user name : 123456
+2021-12-14 11:12:430 INFO  SignInPage :79 - click on the sign in button : Sign in
+2021-12-14 11:12:460 INFO  SignInPage :84 - verify the error message : Authentication failed.
+2021-12-14 11:12:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:641 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:812 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:976 INFO  SignInPage :73 - enter user name : Prime123
+2021-12-14 11:12:977 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 11:12:298 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 11:12:460 INFO  SignInPage :67 - enter user name : prime@gmail.com
+2021-12-14 11:12:610 INFO  SignInPage :73 - enter user name : Prime123
+2021-12-14 12:12:94 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 12:12:78 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 12:12:210 INFO  SignInPage :108 - enter email : abc@gmail.com
+2021-12-14 12:12:339 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 12:12:877 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 12:12:393 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 12:12:573 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 12:12:689 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:144 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:300 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:471 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:590 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:844 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:284 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:456 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:572 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:644 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:627 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:799 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:934 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:377 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:812 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:980 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:101 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:436 INFO  CreateAccountPage :89 - Selecting Title [[ChromeDriver: chrome on WINDOWS (f41a89ed8046bc34b8ad521adde7e616)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:555 INFO  CreateAccountPage :94 - Entering first name [[ChromeDriver: chrome on WINDOWS (f41a89ed8046bc34b8ad521adde7e616)] -> id: customer_firstname]
+2021-12-14 17:12:664 INFO  CreateAccountPage :97 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (f41a89ed8046bc34b8ad521adde7e616)] -> id: customer_lastname]
+2021-12-14 17:12:803 INFO  CreateAccountPage :100 - Entering Password  [[ChromeDriver: chrome on WINDOWS (f41a89ed8046bc34b8ad521adde7e616)] -> id: passwd]
+2021-12-14 17:12:543 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:862 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:50 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:171 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:685 INFO  CreateAccountPage :89 - Selecting Title [[ChromeDriver: chrome on WINDOWS (9a26104b060bb702c4ac6c7ef2b46522)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:807 INFO  CreateAccountPage :93 - Entering first name [[ChromeDriver: chrome on WINDOWS (9a26104b060bb702c4ac6c7ef2b46522)] -> id: customer_firstname]
+2021-12-14 17:12:914 INFO  CreateAccountPage :96 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (9a26104b060bb702c4ac6c7ef2b46522)] -> id: customer_lastname]
+2021-12-14 17:12:24 INFO  CreateAccountPage :99 - Entering Password  [[ChromeDriver: chrome on WINDOWS (9a26104b060bb702c4ac6c7ef2b46522)] -> id: passwd]
+2021-12-14 17:12:310 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:969 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:157 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:270 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:542 INFO  CreateAccountPage :92 - Selecting Title [[ChromeDriver: chrome on WINDOWS (6eee5d7bb712431a4c94351734cb057f)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:623 INFO  CreateAccountPage :96 - Entering first name [[ChromeDriver: chrome on WINDOWS (6eee5d7bb712431a4c94351734cb057f)] -> id: customer_firstname]
+2021-12-14 17:12:756 INFO  CreateAccountPage :99 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (6eee5d7bb712431a4c94351734cb057f)] -> id: customer_lastname]
+2021-12-14 17:12:921 INFO  CreateAccountPage :102 - Entering Password  [[ChromeDriver: chrome on WINDOWS (6eee5d7bb712431a4c94351734cb057f)] -> id: passwd]
+2021-12-14 17:12:744 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:562 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:710 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:847 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:729 INFO  CreateAccountPage :92 - Selecting Title [[ChromeDriver: chrome on WINDOWS (75ffcef7ce9fe9ca24ae92f8c1b9d8ef)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:841 INFO  CreateAccountPage :96 - Entering first name [[ChromeDriver: chrome on WINDOWS (75ffcef7ce9fe9ca24ae92f8c1b9d8ef)] -> id: customer_firstname]
+2021-12-14 17:12:958 INFO  CreateAccountPage :99 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (75ffcef7ce9fe9ca24ae92f8c1b9d8ef)] -> id: customer_lastname]
+2021-12-14 17:12:87 INFO  CreateAccountPage :102 - Entering Password  [[ChromeDriver: chrome on WINDOWS (75ffcef7ce9fe9ca24ae92f8c1b9d8ef)] -> id: passwd]
+2021-12-14 17:12:777 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:279 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:436 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:543 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:899 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:987 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: customer_firstname]
+2021-12-14 17:12:90 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: customer_lastname]
+2021-12-14 17:12:214 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: passwd]
+2021-12-14 17:12:338 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: firstname]
+2021-12-14 17:12:472 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: lastname]
+2021-12-14 17:12:587 INFO  CreateAccountPage :114 - Entering city  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: city]
+2021-12-14 17:12:726 INFO  CreateAccountPage :117 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: id_state]
+2021-12-14 17:12:834 INFO  CreateAccountPage :120 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: postcode]
+2021-12-14 17:12:954 INFO  CreateAccountPage :124 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (6d0d47a26d91bc41c45fe9251bbc9be8)] -> id: phone_mobile]
+2021-12-14 17:12:227 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:272 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:435 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:550 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:148 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:255 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: customer_firstname]
+2021-12-14 17:12:359 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: customer_lastname]
+2021-12-14 17:12:468 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: passwd]
+2021-12-14 17:12:599 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: firstname]
+2021-12-14 17:12:714 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: lastname]
+2021-12-14 17:12:825 INFO  CreateAccountPage :114 - Entering city  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: city]
+2021-12-14 17:12:959 INFO  CreateAccountPage :117 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: id_state]
+2021-12-14 17:12:66 INFO  CreateAccountPage :120 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: postcode]
+2021-12-14 17:12:185 INFO  CreateAccountPage :124 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: phone_mobile]
+2021-12-14 17:12:212 INFO  CreateAccountPage :128 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (c3519f1915c75008fb7f1c79672860f1)] -> id: submitAccount]
+2021-12-14 17:12:259 INFO  CreateAccountPage :133 - Verifying 'My Account' Text  Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'My account')]'
+2021-12-14 17:12:427 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:643 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:880 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:10 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:886 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:07 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: customer_firstname]
+2021-12-14 17:12:131 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: customer_lastname]
+2021-12-14 17:12:259 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: passwd]
+2021-12-14 17:12:419 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: firstname]
+2021-12-14 17:12:572 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: lastname]
+2021-12-14 17:12:685 INFO  CreateAccountPage :114 - Entering city  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: city]
+2021-12-14 17:12:855 INFO  CreateAccountPage :117 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: id_state]
+2021-12-14 17:12:967 INFO  CreateAccountPage :120 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: postcode]
+2021-12-14 17:12:102 INFO  CreateAccountPage :124 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: phone_mobile]
+2021-12-14 17:12:156 INFO  CreateAccountPage :128 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (ab4ac82c2fff079100639e2411b4f073)] -> id: submitAccount]
+2021-12-14 17:12:93 INFO  CreateAccountPage :133 - Verifying 'My Account' Text  Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'My account')]'
+2021-12-14 17:12:227 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:704 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:898 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:45 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:809 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> xpath: //div[@class='radio']]
+2021-12-14 17:12:949 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: customer_firstname]
+2021-12-14 17:12:80 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: customer_lastname]
+2021-12-14 17:12:226 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: passwd]
+2021-12-14 17:12:390 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: firstname]
+2021-12-14 17:12:540 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: lastname]
+2021-12-14 17:12:700 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: lastname]
+2021-12-14 17:12:835 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: city]
+2021-12-14 17:12:986 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: id_state]
+2021-12-14 17:12:108 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: postcode]
+2021-12-14 17:12:271 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: phone_mobile]
+2021-12-14 17:12:306 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> id: submitAccount]
+2021-12-14 17:12:262 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (72d7018ea6e1cbd1fd24c7f6ba7e1f77)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-14 17:12:510 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:494 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:692 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:843 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 17:12:374 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 17:12:810 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 17:12:29 INFO  SignInPage :108 - enter email : abc141202@gmail.com
+2021-12-14 17:12:160 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 18:12:193 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:498 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 18:12:712 INFO  SignInPage :108 - enter email : abc141203@gmail.com
+2021-12-14 18:12:843 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 18:12:610 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> xpath: //div[@class='radio']]
+2021-12-14 18:12:735 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: customer_firstname]
+2021-12-14 18:12:884 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: customer_lastname]
+2021-12-14 18:12:58 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: passwd]
+2021-12-14 18:12:224 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: firstname]
+2021-12-14 18:12:370 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: lastname]
+2021-12-14 18:12:520 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: lastname]
+2021-12-14 18:12:659 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: city]
+2021-12-14 18:12:809 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: id_state]
+2021-12-14 18:12:932 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: postcode]
+2021-12-14 18:12:85 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: phone_mobile]
+2021-12-14 18:12:121 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> id: submitAccount]
+2021-12-14 18:12:694 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (e1b80a74571f9a79b435887cc25b936f)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-14 18:12:688 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:348 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 18:12:525 INFO  SignInPage :108 - enter email : abc141203@gmail.com
+2021-12-14 18:12:637 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 18:12:910 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:10 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 18:12:233 INFO  SignInPage :108 - enter email : abcd141202@gmail.com
+2021-12-14 18:12:389 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 18:12:201 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> xpath: //div[@class='radio']]
+2021-12-14 18:12:309 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: customer_firstname]
+2021-12-14 18:12:445 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: customer_lastname]
+2021-12-14 18:12:538 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: passwd]
+2021-12-14 18:12:657 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: firstname]
+2021-12-14 18:12:736 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: lastname]
+2021-12-14 18:12:837 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: lastname]
+2021-12-14 18:12:922 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: city]
+2021-12-14 18:12:09 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: id_state]
+2021-12-14 18:12:146 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: postcode]
+2021-12-14 18:12:275 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: phone_mobile]
+2021-12-14 18:12:743 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> id: submitAccount]
+2021-12-14 18:12:863 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (f4e2806057c5072f94b03b7ee7472c44)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-14 18:12:860 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:277 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 18:12:441 INFO  SignInPage :108 - enter email : 
+2021-12-14 18:12:585 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 18:12:377 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:777 INFO  HomePage :41 - clicking on sign in link : Sign in
+2021-12-14 18:12:981 INFO  SignInPage :108 - enter email : 
+2021-12-14 18:12:129 INFO  SignInPage :113 - click on the create an account link : Create an account
+2021-12-14 18:12:487 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> xpath: //div[@class='radio']]
+2021-12-14 18:12:571 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: customer_firstname]
+2021-12-14 18:12:678 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: customer_lastname]
+2021-12-14 18:12:792 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: passwd]
+2021-12-14 18:12:925 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: firstname]
+2021-12-14 18:12:52 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: lastname]
+2021-12-14 18:12:167 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: lastname]
+2021-12-14 18:12:259 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: city]
+2021-12-14 18:12:371 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: id_state]
+2021-12-14 18:12:450 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: postcode]
+2021-12-14 18:12:541 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: phone_mobile]
+2021-12-14 18:12:569 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> id: submitAccount]
+2021-12-14 18:12:827 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (015e31ca4beb946486d3599e9cdaa6fd)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-14 18:12:910 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:293 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:44 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 18:12:977 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:794 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:560 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:627 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:460 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:331 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:727 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:260 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:301 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:839 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:558 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:310 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:646 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:617 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:617 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 19:12:994 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:477 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:210 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:658 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:582 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:03 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:610 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:583 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:409 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:27 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:23 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:842 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 20:12:807 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:678 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:965 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:154 INFO  SignInPage :105 - enter email : 
+2021-12-14 23:12:269 INFO  SignInPage :110 - click on the create an account link : Create an account
+2021-12-14 23:12:310 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> xpath: //div[@class='radio']]
+2021-12-14 23:12:401 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: customer_firstname]
+2021-12-14 23:12:512 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: customer_lastname]
+2021-12-14 23:12:623 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: passwd]
+2021-12-14 23:12:758 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: firstname]
+2021-12-14 23:12:850 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: lastname]
+2021-12-14 23:12:939 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: lastname]
+2021-12-14 23:12:49 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: city]
+2021-12-14 23:12:153 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: id_state]
+2021-12-14 23:12:241 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: postcode]
+2021-12-14 23:12:357 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: phone_mobile]
+2021-12-14 23:12:384 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> id: submitAccount]
+2021-12-14 23:12:861 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (da8801c0d5d86a6bf4dc9aebb6988257)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-14 23:12:915 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:87 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:173 INFO  SignInPage :65 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (63a29c5f286efe5c7349a3a7b86f21bf)] -> css selector: .page-heading]
+2021-12-14 23:12:222 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:672 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:787 INFO  SignInPage :70 - enter user name : 
+2021-12-14 23:12:922 INFO  SignInPage :75 - enter user name : 123456
+2021-12-14 23:12:769 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 23:12:810 INFO  SignInPage :85 - verify the error message : An email address required.
+2021-12-14 23:12:844 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:340 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:488 INFO  SignInPage :70 - enter user name : abcd@gmail.com
+2021-12-14 23:12:596 INFO  SignInPage :75 - enter user name : 
+2021-12-14 23:12:566 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 23:12:600 INFO  SignInPage :85 - verify the error message : Password is required.
+2021-12-14 23:12:633 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:828 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:938 INFO  SignInPage :70 - enter user name : adfdfgfg
+2021-12-14 23:12:64 INFO  SignInPage :75 - enter user name : 123456
+2021-12-14 23:12:15 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 23:12:44 INFO  SignInPage :85 - verify the error message : Invalid email address.
+2021-12-14 23:12:69 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:219 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:368 INFO  SignInPage :70 - enter user name : abcd@gmail.com
+2021-12-14 23:12:500 INFO  SignInPage :75 - enter user name : 123456
+2021-12-14 23:12:556 INFO  SignInPage :80 - click on the sign in button : Sign in
+2021-12-14 23:12:612 INFO  SignInPage :85 - verify the error message : Authentication failed.
+2021-12-14 23:12:644 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:606 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:823 INFO  SignInPage :70 - enter user name : prime@gmail.com
+2021-12-14 23:12:958 INFO  SignInPage :75 - enter user name : Prime123
+2021-12-14 23:12:979 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:458 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-14 23:12:633 INFO  SignInPage :70 - enter user name : prime@gmail.com
+2021-12-14 23:12:780 INFO  SignInPage :75 - enter user name : Prime123
+2021-12-14 23:12:804 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:635 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:565 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:966 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-14 23:12:481 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:829 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:242 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 00:12:373 INFO  SignInPage :70 - enter user name : prime@gmail.com
+2021-12-15 00:12:482 INFO  SignInPage :75 - enter user name : Prime123
+2021-12-15 00:12:62 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:686 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 00:12:795 INFO  SignInPage :70 - enter user name : prime@gmail.com
+2021-12-15 00:12:912 INFO  SignInPage :75 - enter user name : Prime123
+2021-12-15 00:12:861 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:43 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 00:12:212 INFO  SignInPage :71 - enter user name : prime@gmail.com
+2021-12-15 00:12:354 INFO  SignInPage :76 - enter user name : Prime123
+2021-12-15 00:12:153 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:464 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:160 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:124 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:409 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:637 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:471 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:633 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:442 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:230 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:545 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:899 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:509 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:137 INFO  ProductPage :81 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (d45a6157e3e8d8c367dc030ec434bf3d)] -> xpath: //span[@title='Close window']]
+2021-12-15 00:12:213 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:56 INFO  ProductPage :81 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (ef256deecade65b61e2b44452977c5b2)] -> xpath: //span[@title='Close window']]
+2021-12-15 00:12:98 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:184 INFO  ProductPage :81 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (23e0c2c4be4523917c53a372bcb6ded9)] -> xpath: //span[@title='Close window']]
+2021-12-15 00:12:216 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 00:12:515 INFO  ProductPage :81 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (b21a67670b0f186525933d28ac17235a)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:206 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:957 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:137 INFO  SignInPage :106 - enter email : 
+2021-12-15 01:12:263 INFO  SignInPage :111 - click on the create an account link : Create an account
+2021-12-15 01:12:139 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> xpath: //div[@class='radio']]
+2021-12-15 01:12:231 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: customer_firstname]
+2021-12-15 01:12:323 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: customer_lastname]
+2021-12-15 01:12:427 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: passwd]
+2021-12-15 01:12:524 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: firstname]
+2021-12-15 01:12:634 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: lastname]
+2021-12-15 01:12:733 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: lastname]
+2021-12-15 01:12:828 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: city]
+2021-12-15 01:12:939 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: id_state]
+2021-12-15 01:12:29 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: postcode]
+2021-12-15 01:12:135 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: phone_mobile]
+2021-12-15 01:12:164 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> id: submitAccount]
+2021-12-15 01:12:847 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (91a638caf9139f8326a512380ef238d4)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-15 01:12:887 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:384 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:448 INFO  SignInPage :66 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (c0022058c39d1b6e6ae02216e8ae202f)] -> css selector: .page-heading]
+2021-12-15 01:12:472 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:676 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:753 INFO  SignInPage :71 - enter user name : 
+2021-12-15 01:12:903 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:816 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:849 INFO  SignInPage :86 - verify the error message : An email address required.
+2021-12-15 01:12:882 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:571 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:680 INFO  SignInPage :71 - enter user name : abcd@gmail.com
+2021-12-15 01:12:777 INFO  SignInPage :76 - enter user name : 
+2021-12-15 01:12:694 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:729 INFO  SignInPage :86 - verify the error message : Password is required.
+2021-12-15 01:12:762 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:751 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:850 INFO  SignInPage :71 - enter user name : adfdfgfg
+2021-12-15 01:12:982 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:868 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:902 INFO  SignInPage :86 - verify the error message : Invalid email address.
+2021-12-15 01:12:921 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:789 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:902 INFO  SignInPage :71 - enter user name : abcd@gmail.com
+2021-12-15 01:12:33 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:891 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:925 INFO  SignInPage :86 - verify the error message : Authentication failed.
+2021-12-15 01:12:952 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:281 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:431 INFO  SignInPage :71 - enter user name : prime@gmail.com
+2021-12-15 01:12:563 INFO  SignInPage :76 - enter user name : Prime123
+2021-12-15 01:12:592 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:431 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:576 INFO  SignInPage :71 - enter user name : prime@gmail.com
+2021-12-15 01:12:732 INFO  SignInPage :76 - enter user name : Prime123
+2021-12-15 01:12:406 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:377 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (d63f614d842d2f483d0f2719622effaf)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:434 INFO  WomenCategoryPage :39 - verifying womens page text : Women
+2021-12-15 01:12:507 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:395 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (544ea6316bf0ca07fb754f4c36044013)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:234 INFO  WomenCategoryPage :50 - selecting product : Blouse
+2021-12-15 01:12:465 INFO  ProductPage :42 - select quantity : 2
+2021-12-15 01:12:798 INFO  ProductPage :47 - select size : M
+2021-12-15 01:12:931 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (544ea6316bf0ca07fb754f4c36044013)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:517 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (544ea6316bf0ca07fb754f4c36044013)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:640 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (544ea6316bf0ca07fb754f4c36044013)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:686 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:458 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (df33ca503ff760bf995e90a5fd3340c6)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:414 INFO  WomenCategoryPage :50 - selecting product : Printed Dress
+2021-12-15 01:12:510 INFO  ProductPage :42 - select quantity : 3
+2021-12-15 01:12:648 INFO  ProductPage :47 - select size : L
+2021-12-15 01:12:782 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (df33ca503ff760bf995e90a5fd3340c6)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:393 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (df33ca503ff760bf995e90a5fd3340c6)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:453 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (df33ca503ff760bf995e90a5fd3340c6)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:482 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:682 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (e48417b30fd348a1efeae63fe7ee6be2)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:551 INFO  WomenCategoryPage :50 - selecting product : Printed Chiffon Dress
+2021-12-15 01:12:652 INFO  ProductPage :42 - select quantity : 4
+2021-12-15 01:12:715 INFO  ProductPage :47 - select size : S
+2021-12-15 01:12:814 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (e48417b30fd348a1efeae63fe7ee6be2)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:428 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (e48417b30fd348a1efeae63fe7ee6be2)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:495 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (e48417b30fd348a1efeae63fe7ee6be2)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:534 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:523 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (01b650cc31a43d839d052fd83f7de908)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:469 INFO  WomenCategoryPage :50 - selecting product : Printed Summer Dress
+2021-12-15 01:12:589 INFO  ProductPage :42 - select quantity : 2
+2021-12-15 01:12:746 INFO  ProductPage :47 - select size : M
+2021-12-15 01:12:838 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (01b650cc31a43d839d052fd83f7de908)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:439 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (01b650cc31a43d839d052fd83f7de908)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:516 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (01b650cc31a43d839d052fd83f7de908)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:168 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:835 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:990 INFO  SignInPage :106 - enter email : 
+2021-12-15 01:12:97 INFO  SignInPage :111 - click on the create an account link : Create an account
+2021-12-15 01:12:138 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> xpath: //div[@class='radio']]
+2021-12-15 01:12:261 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: customer_firstname]
+2021-12-15 01:12:347 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: customer_lastname]
+2021-12-15 01:12:460 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: passwd]
+2021-12-15 01:12:595 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: firstname]
+2021-12-15 01:12:710 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: lastname]
+2021-12-15 01:12:825 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: lastname]
+2021-12-15 01:12:925 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: city]
+2021-12-15 01:12:32 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: id_state]
+2021-12-15 01:12:124 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: postcode]
+2021-12-15 01:12:238 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: phone_mobile]
+2021-12-15 01:12:266 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> id: submitAccount]
+2021-12-15 01:12:312 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (2cbc2c08b648db7a60db31271597a362)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-15 01:12:405 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:174 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:269 INFO  SignInPage :66 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (0184f6849622a0903f89646d58f1ccf0)] -> css selector: .page-heading]
+2021-12-15 01:12:305 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:355 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (b8374ccf3215250a2163097ef1556833)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:415 INFO  WomenCategoryPage :39 - verifying womens page text : Women
+2021-12-15 01:12:947 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:321 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:481 INFO  SignInPage :106 - enter email : 
+2021-12-15 01:12:590 INFO  SignInPage :111 - click on the create an account link : Create an account
+2021-12-15 01:12:981 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> xpath: //div[@class='radio']]
+2021-12-15 01:12:86 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: customer_firstname]
+2021-12-15 01:12:176 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: customer_lastname]
+2021-12-15 01:12:296 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: passwd]
+2021-12-15 01:12:420 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: firstname]
+2021-12-15 01:12:519 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: lastname]
+2021-12-15 01:12:604 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: lastname]
+2021-12-15 01:12:704 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: city]
+2021-12-15 01:12:803 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: id_state]
+2021-12-15 01:12:885 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: postcode]
+2021-12-15 01:12:971 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: phone_mobile]
+2021-12-15 01:12:04 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> id: submitAccount]
+2021-12-15 01:12:861 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (2b938eb2390efad80d04492b00156569)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-15 01:12:933 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:96 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:164 INFO  SignInPage :71 - enter user name : 
+2021-12-15 01:12:312 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:334 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:363 INFO  SignInPage :86 - verify the error message : An email address required.
+2021-12-15 01:12:401 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:81 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:216 INFO  SignInPage :71 - enter user name : abcd@gmail.com
+2021-12-15 01:12:313 INFO  SignInPage :76 - enter user name : 
+2021-12-15 01:12:232 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:274 INFO  SignInPage :86 - verify the error message : Password is required.
+2021-12-15 01:12:305 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:187 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:280 INFO  SignInPage :71 - enter user name : adfdfgfg
+2021-12-15 01:12:419 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:382 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:411 INFO  SignInPage :86 - verify the error message : Invalid email address.
+2021-12-15 01:12:424 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:806 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:920 INFO  SignInPage :71 - enter user name : abcd@gmail.com
+2021-12-15 01:12:51 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:26 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:59 INFO  SignInPage :86 - verify the error message : Authentication failed.
+2021-12-15 01:12:82 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:473 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:633 INFO  SignInPage :71 - enter user name : prime@gmail.com
+2021-12-15 01:12:763 INFO  SignInPage :76 - enter user name : Prime123
+2021-12-15 01:12:781 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:307 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (6fbc58d6e5563162310640b1968a8cef)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:997 INFO  WomenCategoryPage :50 - selecting product : Blouse
+2021-12-15 01:12:153 INFO  ProductPage :42 - select quantity : 2
+2021-12-15 01:12:345 INFO  ProductPage :47 - select size : M
+2021-12-15 01:12:491 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (6fbc58d6e5563162310640b1968a8cef)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:94 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (6fbc58d6e5563162310640b1968a8cef)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:273 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (6fbc58d6e5563162310640b1968a8cef)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:375 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:589 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (160129a160af9a80f18e3408d76438aa)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:938 INFO  WomenCategoryPage :50 - selecting product : Printed Dress
+2021-12-15 01:12:89 INFO  ProductPage :42 - select quantity : 3
+2021-12-15 01:12:254 INFO  ProductPage :47 - select size : L
+2021-12-15 01:12:347 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (160129a160af9a80f18e3408d76438aa)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:945 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (160129a160af9a80f18e3408d76438aa)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:35 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (160129a160af9a80f18e3408d76438aa)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:63 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:482 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (cecc6c3d07b5ea2e11e20e8f65dfb109)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:234 INFO  WomenCategoryPage :50 - selecting product : Printed Chiffon Dress
+2021-12-15 01:12:395 INFO  ProductPage :42 - select quantity : 4
+2021-12-15 01:12:478 INFO  ProductPage :47 - select size : S
+2021-12-15 01:12:592 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (cecc6c3d07b5ea2e11e20e8f65dfb109)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:244 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (cecc6c3d07b5ea2e11e20e8f65dfb109)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:363 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (cecc6c3d07b5ea2e11e20e8f65dfb109)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:388 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:56 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (f421435da3fda7f043b26b3e58ba2c42)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:787 INFO  WomenCategoryPage :50 - selecting product : Printed Summer Dress
+2021-12-15 01:12:902 INFO  ProductPage :42 - select quantity : 2
+2021-12-15 01:12:24 INFO  ProductPage :47 - select size : M
+2021-12-15 01:12:99 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (f421435da3fda7f043b26b3e58ba2c42)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:693 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (f421435da3fda7f043b26b3e58ba2c42)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:763 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (f421435da3fda7f043b26b3e58ba2c42)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:193 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:429 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:576 INFO  SignInPage :106 - enter email : 
+2021-12-15 01:12:689 INFO  SignInPage :111 - click on the create an account link : Create an account
+2021-12-15 01:12:800 INFO  CreateAccountPage :91 - Selecting Title [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> xpath: //div[@class='radio']]
+2021-12-15 01:12:896 INFO  CreateAccountPage :95 - Entering first name [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: customer_firstname]
+2021-12-15 01:12:00 INFO  CreateAccountPage :98 - Entering Last name  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: customer_lastname]
+2021-12-15 01:12:92 INFO  CreateAccountPage :101 - Entering Password  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: passwd]
+2021-12-15 01:12:233 INFO  CreateAccountPage :108 - Entering First Name  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: firstname]
+2021-12-15 01:12:345 INFO  CreateAccountPage :111 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: lastname]
+2021-12-15 01:12:470 INFO  CreateAccountPage :114 - Entering Last Name  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: lastname]
+2021-12-15 01:12:578 INFO  CreateAccountPage :117 - Entering city  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: city]
+2021-12-15 01:12:706 INFO  CreateAccountPage :120 - Selecting state from dropdown  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: id_state]
+2021-12-15 01:12:803 INFO  CreateAccountPage :123 - Entering Post code  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: postcode]
+2021-12-15 01:12:927 INFO  CreateAccountPage :127 - Entering Mobile number  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: phone_mobile]
+2021-12-15 01:12:955 INFO  CreateAccountPage :131 - Clicking on Register button  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> id: submitAccount]
+2021-12-15 01:12:863 INFO  CreateAccountPage :136 - Verifying 'My Account' Text  [[ChromeDriver: chrome on WINDOWS (7707a74e01814298b05bb2417d6a5649)] -> xpath: //h1[contains(text(),'My account')]]
+2021-12-15 01:12:921 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:603 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:684 INFO  SignInPage :66 - verify the authentication message : [[ChromeDriver: chrome on WINDOWS (10e426a731838c493024512ba13b61a8)] -> css selector: .page-heading]
+2021-12-15 01:12:739 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:770 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:859 INFO  SignInPage :71 - enter user name : 
+2021-12-15 01:12:04 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:961 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:01 INFO  SignInPage :86 - verify the error message : An email address required.
+2021-12-15 01:12:33 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:298 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:417 INFO  SignInPage :71 - enter user name : abcd@gmail.com
+2021-12-15 01:12:513 INFO  SignInPage :76 - enter user name : 
+2021-12-15 01:12:400 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:435 INFO  SignInPage :86 - verify the error message : Password is required.
+2021-12-15 01:12:461 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:663 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:763 INFO  SignInPage :71 - enter user name : adfdfgfg
+2021-12-15 01:12:923 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:172 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:206 INFO  SignInPage :86 - verify the error message : Invalid email address.
+2021-12-15 01:12:222 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:374 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:515 INFO  SignInPage :71 - enter user name : abcd@gmail.com
+2021-12-15 01:12:626 INFO  SignInPage :76 - enter user name : 123456
+2021-12-15 01:12:635 INFO  SignInPage :81 - click on the sign in button : Sign in
+2021-12-15 01:12:660 INFO  SignInPage :86 - verify the error message : Authentication failed.
+2021-12-15 01:12:685 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:103 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:246 INFO  SignInPage :71 - enter user name : prime@gmail.com
+2021-12-15 01:12:401 INFO  SignInPage :76 - enter user name : Prime123
+2021-12-15 01:12:428 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:108 INFO  HomePage :49 - clicking on sign in link : Sign in
+2021-12-15 01:12:266 INFO  SignInPage :71 - enter user name : prime@gmail.com
+2021-12-15 01:12:398 INFO  SignInPage :76 - enter user name : Prime123
+2021-12-15 01:12:417 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:41 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (e4065b33bcab4bb92c5bb15f56f8e750)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:90 INFO  WomenCategoryPage :39 - verifying womens page text : Women
+2021-12-15 01:12:135 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:285 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (62318307ba8ca840e6975a24db8f2d42)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:95 INFO  WomenCategoryPage :50 - selecting product : Blouse
+2021-12-15 01:12:260 INFO  ProductPage :42 - select quantity : 2
+2021-12-15 01:12:467 INFO  ProductPage :47 - select size : M
+2021-12-15 01:12:628 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (62318307ba8ca840e6975a24db8f2d42)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:202 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (62318307ba8ca840e6975a24db8f2d42)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:290 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (62318307ba8ca840e6975a24db8f2d42)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:329 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:338 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (488d0187b7a23ac63afaa1c23eac8cd7)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:122 INFO  WomenCategoryPage :50 - selecting product : Printed Dress
+2021-12-15 01:12:243 INFO  ProductPage :42 - select quantity : 3
+2021-12-15 01:12:379 INFO  ProductPage :47 - select size : L
+2021-12-15 01:12:501 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (488d0187b7a23ac63afaa1c23eac8cd7)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:135 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (488d0187b7a23ac63afaa1c23eac8cd7)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:237 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (488d0187b7a23ac63afaa1c23eac8cd7)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:282 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:158 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (7d3af54d6f918b7b2a8320e7c8a7a965)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:624 INFO  WomenCategoryPage :50 - selecting product : Printed Chiffon Dress
+2021-12-15 01:12:770 INFO  ProductPage :42 - select quantity : 4
+2021-12-15 01:12:855 INFO  ProductPage :47 - select size : S
+2021-12-15 01:12:988 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (7d3af54d6f918b7b2a8320e7c8a7a965)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:619 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (7d3af54d6f918b7b2a8320e7c8a7a965)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:698 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (7d3af54d6f918b7b2a8320e7c8a7a965)] -> xpath: //span[@title='Close window']]
+2021-12-15 01:12:732 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-15 01:12:270 INFO  HomePage :54 - clicking on women tab : [[ChromeDriver: chrome on WINDOWS (f5c24a1f7df3c23f08230da60d9ad0db)] -> xpath: (//a[@title='Women'])[1]]
+2021-12-15 01:12:41 INFO  WomenCategoryPage :50 - selecting product : Printed Summer Dress
+2021-12-15 01:12:150 INFO  ProductPage :42 - select quantity : 2
+2021-12-15 01:12:264 INFO  ProductPage :47 - select size : M
+2021-12-15 01:12:334 INFO  ProductPage :70 - click on add to cart button : [[ChromeDriver: chrome on WINDOWS (f5c24a1f7df3c23f08230da60d9ad0db)] -> xpath: //span[normalize-space()='Add to cart']]
+2021-12-15 01:12:997 INFO  ProductPage :79 - Verifying the popup Message :[[ChromeDriver: chrome on WINDOWS (f5c24a1f7df3c23f08230da60d9ad0db)] -> css selector: div[class='layer_cart_product col-xs-12 col-md-6'] h2]
+2021-12-15 01:12:113 INFO  ProductPage :84 - Closing the popup message :[[ChromeDriver: chrome on WINDOWS (f5c24a1f7df3c23f08230da60d9ad0db)] -> xpath: //span[@title='Close window']]
